@@ -8,7 +8,7 @@ puts"How are you doing today? I'm okay, but I'm kind of tired. Did you watch The
 end 
 
  def raise_hand 
-   super.10
+   10.times do super
    
  end 
 end 
